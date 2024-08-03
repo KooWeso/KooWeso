@@ -8,6 +8,7 @@
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm actively seeking out new technologies and frameworks to expand my skillset
 
+> Motto: ⌞ *You just have to keep doing something in order to get good at it* ⌝, *Pendleton Ward*
 ---
 
 ## Technical Skills 🍴
@@ -18,19 +19,9 @@
 - **AI**: Utilizing AI-powered tools and platforms to optimize my educational outcomes
 
 ---
-
  ⚡ Fun fact: This is ~~my~~ GitHub page and I'm still alive
+
+
 <!--
-**KooWeso/KooWeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 
+**KooWeso/KooWeso** is a ✨ _special_ ✨ repository
 -->
