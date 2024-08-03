@@ -8,7 +8,7 @@
 <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm actively seeking out new technologies and frameworks to expand my skillset
 
-> Motto: ⌞ *You just have to keep doing something in order to get good at it* ⌝, *Pendleton Ward*
+> &nbsp;&nbsp;Motto: ⌞ *You just have to keep doing something in order to get good at it* ⌝, *Pendleton Ward*
 ---
 
 ## Technical Skills 🍴
