@@ -2,9 +2,7 @@
 # Good to see you here ✌
 ## About Me
 
-As a software engineer, I'm thrilled to be here, sharing my passion for building innovative projects and 
-<br/>
-exploring new technologies every day.
+As a software engineer, I'm thrilled to be here, sharing my passion for building projects and exploring new technologies every day.
 <br/>
 My current tech stack is centered around **React** and **TypeScript**, which I'm excited to continue honing my skills with.
 <br/>
