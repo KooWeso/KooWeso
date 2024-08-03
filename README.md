@@ -1,5 +1,23 @@
-## Hi there 👋
+> javascript mentioned...
+# Good to see you here ✌
+## About Me
 
+As a software engineer, I'm thrilled to be here, sharing my passion for building innovative projects and exploring new technologies every day
+My current tech stack is centered around **React** and **TypeScript**, which I'm excited to continue honing my skills with
+I'm actively seeking out new technologies and frameworks to expand my skillset
+
+---
+
+## Technical Skills 🍴
+
+- **Languages**: *`JavaScript`* and *`TypeScript`*, with a focus on writing clean, maintainable code
+- **Frameworks & Libraries**: *`React`*, with expertise in both legacy and modern features
+- **Tools & Platforms**: *`GitHub`* for version control and *`Vercel`* for deployment and hosting
+- **AI**: Utilizing AI-powered tools and platforms to optimize my educational outcomes
+
+---
+
+ ⚡ Fun fact: This is ~~my~~ GitHub page and I'm still alive
 <!--
 **KooWeso/KooWeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,5 +30,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 
 -->
